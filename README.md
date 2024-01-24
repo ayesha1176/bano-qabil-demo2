@@ -8,4 +8,4 @@ cit python
 student
 <br> 
 6to8
-<b><h1>khan</b></h1>
+<spleen style colour blue><b><h1>khan</b></h1><spleen style colour blue/>
